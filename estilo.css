@@ -1,0 +1,95 @@
+body{
+    background-color: #f4f0e5;
+    margin:0;
+    font-family: verdana;
+}
+
+.secao {
+    width: 700px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+
+
+.logo{
+    width: 180px;
+}
+
+ a {
+    font-size: 15px;
+    color:#542f0c;
+    margin: 10px;
+}
+ h2{
+    border-top:1px solid #de8e37;
+    margin:0;
+    margin-top: 35px;
+    margin-bottom: 5px;
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: 27px;
+}
+
+h3{
+    color:#de8e37;
+    font-size: 23px;
+    margin-top: 10px;
+   font-weight: normal;
+}
+
+.produtos{
+    width: 700px;
+}
+
+h4{
+    font-size: 20px;
+    margin:15px;
+    font-weight: bold;
+}
+
+
+
+.secao-destaque{
+    width: 673px;
+    font-size: 15px;
+    padding: 15px;
+    background-color: #de8e37;
+    text-align: center;
+    color:white;
+}
+
+img{
+    width: 400px;
+}
+
+.secao-destaque p{
+    width: 500px;
+    line-height: 30px;
+    margin: 0 auto;
+}
+
+.secao-destaque h4{
+    padding-top: 20px;
+}
+
+.secao-destaque h2{
+    padding-top: 5px;
+    margin-top: 15px;
+}
+
+.secao h3{
+    color:black;
+    font-weight: bold;
+}
+
+span{
+    font-weight: bold;
+}
+
+.secao .paragrafo{
+    color:#de8e37;
+    font-size: 23px;
+    margin-top: 10px;
+   font-weight: normal;
+}
